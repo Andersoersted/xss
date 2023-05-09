@@ -1,5 +1,7 @@
 {
   "functions": {
-    "api/submit.js": {}
+    "api/submit.js": {
+      "maxDuration": 10
+    }
   }
 }
