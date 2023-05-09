@@ -1,6 +1,6 @@
 {
   "functions": {
-    "/submit.js": {
+    "submit.js": {
       "runtime": "nodejs14.x"
     }
   }
